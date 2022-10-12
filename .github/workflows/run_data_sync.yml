@@ -24,7 +24,7 @@ env:
   RUN_TYPE: keep # support strava/nike/garmin/garmin_cn/keep/only_gpx/nike_to_strava/strava_to_garmin/strava_to_garmin_cn/garmin_to_strava/garmin_to_strava_cn, Please change the 'pass' it to your own
   ATHLETE: Jiakai
   TITLE: Jiakai Running
-  MIN_GRID_DISTANCE: 1 # change min distance here
+  MIN_GRID_DISTANCE: 2 # change min distance here
   TITLE_GRID: Over 1km Runs # also here
   GITHUB_NAME: real_jiakai
   GITHUB_EMAIL: gujiakai28@gmail.com
