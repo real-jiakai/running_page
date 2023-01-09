@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: '/running_page', // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'The Running Page Of Jiakai',
-    siteUrl: 'https://running.jiakai.page',
+    siteUrl: 'https://running.jiakai.top',
     logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
     description: 'Personal site and blog',
     navLinks: [
@@ -12,7 +12,7 @@ module.exports = {
       },
       {
         name: 'About',
-        url: 'https://blog.gujiakai.top/about.html',
+        url: 'https://blog.gujiakai.top/about',
       },
     ],
   },
